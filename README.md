@@ -91,7 +91,7 @@ pycorenlp==0.3.0
 
 [Stanford CoreNLP tookit](https://stanfordnlp.github.io/CoreNLP/download.html)
  
-## Train and test baseline model
+## Train and test baseline models
 
 You can find the command lines to train and test baseline models on a small sample data in `run_sample.sh`.
 
