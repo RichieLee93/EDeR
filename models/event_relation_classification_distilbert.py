@@ -33,8 +33,6 @@ task = args.t
 
 
 train_dataset, test_dataset = read_data(model_name=model_name, input=input_type, task=task)
-print("TRAIN Dataset: {}".format(train_dataset.shape))
-print("TEST Dataset: {}".format(test_dataset.shape))
 
 # Defining some key variables that will be used later on in the training
 MAX_LEN = 256

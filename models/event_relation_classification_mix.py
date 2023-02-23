@@ -93,7 +93,6 @@ dataset_train = TensorDataset(input_ids_train, attention_masks_train, labels_tra
 dataset_val = TensorDataset(input_ids_val, attention_masks_val, labels_val)
 dataset_test = TensorDataset(input_ids_test, attention_masks_test, labels_test)
 
-print("data size is ", len(dataset_train), len(dataset_val), len(dataset_test))
 
 model = model_class.from_pretrained(config_class,
                                                       num_labels=len(list(set(df_train["label"].tolist()))),

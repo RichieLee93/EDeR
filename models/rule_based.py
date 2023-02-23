@@ -68,11 +68,9 @@ def get_all_possible_sent(sent):
                         dependencyRel_basic.append([dep_pair["dep"], dep_pair["governorGloss"], dep_pair["dependentGloss"], [dep_pair["governor"], dep_pair["dependent"]]])
 
     else:
-        # dependencyRel = 0
         dependencyRel_basic = 0
 
-    # with open("/home/users/u7068796/ruiqi/story_planning/data/MovieSummaries/dep.pkl", 'wb') as f:
-    #         pickle.dump(sent_pos_dep_dict, f)
+
     return dependencyRel_basic
 
 def check_if_arg_event(df):
