@@ -70,7 +70,7 @@ EDeR is a human-annotated dataset that extracts event dependency information fro
  'Event-Event-SRL-DEP': "We {V: know} you teach the truth about God 's way[SEP]you {V: teach} the truth about God 's way[SRL]ARG1[DEP]parataxis",
  'Marked-predicate sentence': "We [V1] know [\V1] you [V2] teach [\V2] the truth about God 's way ."}
 ```
-``` Event 1 and Event 2 ``` are the containing and contained event pair.
+``` Event 1 ``` and ```Event 2 ``` are the containing and contained event pair.
 ``` refined Event 1 ```  is the refined Event 1 if label is condition or independent. Otherwise, it is NAN. 
 ```Event 1 SRL``` and ```Event 2 SRL``` are semantic role labels of the two events, respectively. 
 ```sentence``` is the tokenized sentence that contains the two events. The four types of inputs are also included, details can be found in the paper.
