@@ -1,5 +1,5 @@
 # EDeR
-EDeR: A Dataset for Exploring Event Dependency Relations Between Events (submitted to SIGIR2023 Resource Paper Track).
+EDeR: A Dataset for Exploring Event Dependency Relations Between Events.
 
 EDeR is a human-annotated dataset that extracts event dependency information from events and provides refined semantic role-labelled event representations based on this information. We also provide the code of related baseline models for further research.
 
@@ -108,5 +108,5 @@ Here are some important parameters:
 If you feel the dataset helpful, please cite:
 
 ```  
-We will upload the paper to arXiv soon.
+The paper is under review for SIGIR2023 (Resource Paper track).
 ``` -->
