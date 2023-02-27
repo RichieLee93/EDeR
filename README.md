@@ -103,10 +103,10 @@ Here are some important parameters:
 
 
 
-<!--  # Citing us
+ # Citing us
 
 If you feel the dataset helpful, please cite:
 
 ```  
 The paper is under review for SIGIR2023 (Resource Paper track).
-``` -->
+```
