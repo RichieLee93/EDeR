@@ -93,7 +93,7 @@ pycorenlp==0.3.0
  
 ## Train and test baseline models
 
-You can find the command lines to train and test baseline models on a small sample data in `run_sample.sh`.
+You can find the command lines to train and test baseline models on the data in `run_sample.sh`.
 
 Here are some important parameters:
 
