@@ -108,5 +108,5 @@ Here are some important parameters:
 If you feel the dataset helpful, please cite:
 
 ```  
-The paper is under review for SIGIR2023 (Resource Paper track).
+To be announced.
 ```
