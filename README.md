@@ -105,15 +105,14 @@ Here are some important parameters:
 
  # Citing us
 
-If you feel the dataset helpful, please cite:
+If you feel the dataset is helpful, please cite the following:
 
 ```  
-@misc{li2023eder,
-      title={EDeR: A Dataset for Exploring Dependency Relations Between Events}, 
-      author={Ruiqi Li and Patrik Haslum and Leyang Cui},
-      year={2023},
-      eprint={2304.01612},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{li2023eder,
+  title={EDeR: Towards Understanding Dependency Relations Between Events},
+  author={Li, Ruiqi and Haslum, Patrik and Cui, Leyang},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={14969--14983},
+  year={2023}
 }
 ```
